@@ -8,6 +8,6 @@
 **Workshop:**
 
 * Introduction to federated learning
-* Federated Learning applied to image classification: Hands-On Practice 
+* Federated Learning applied to image classification: [Hands-On Practice](https://github.com/judithspd/eyes-of-ai-workshop/blob/main/workshop_UDST_FL.ipynb) 
 
 
